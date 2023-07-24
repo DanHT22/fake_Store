@@ -2,11 +2,20 @@ body{
     margin: 30px;
 }
 
-h1{
-    text-align: center;
-    padding: 30px;
-    
+nav{
+    background-color: rgb(107, 16, 128);
 }
+
+
+.productos{
+    text-align: left;
+    padding: 30px;
+    margin-left: 90px;
+    font-size: 30px;
+    color: rgb(107, 16, 128);
+}
+
+
 .card{
     margin: 10px;
     text-align: justify;
@@ -24,4 +33,17 @@ h1{
 
 .card-text{
     font-size: 14px;
+}
+
+.button{
+    background-color: rgb(220, 131, 14);
+    border-radius: 10px;
+    border: 0;
+    padding: 7px;  
+}
+
+
+
+footer{
+margin-top: 20px;
 }

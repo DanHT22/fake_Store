@@ -35,7 +35,7 @@ function createCards(data) {
             <h5 class="card-title">${producto.title}</h5>
             <p class="card-text"><strong>${producto.category}</strong></p>
             <p class="card-text">${producto.description.slice(0, 80)} ... </p>
-            <button type="button" class="btn btn-info" data-bs-toggle="modal" data-bs-target="#exampleModal_${producto.id}">
+            <button type="button" class="button " data-bs-toggle="modal" data-bs-target="#exampleModal_${producto.id}">
             Más Info
             </button>
             </div>
