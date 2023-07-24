@@ -1,0 +1,27 @@
+body{
+    margin: 30px;
+}
+
+h1{
+    text-align: center;
+    padding: 30px;
+    
+}
+.card{
+    margin: 10px;
+    text-align: justify;
+}
+
+.card-img-top{
+    height: 300px;
+    width: 100px;
+    padding: 20px;
+}
+
+.card-title{
+    font-size: 20px;
+}
+
+.card-text{
+    font-size: 14px;
+}
